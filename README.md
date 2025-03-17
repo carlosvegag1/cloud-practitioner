@@ -26,9 +26,9 @@ Este método me permitió:
 
 ## 📂 Estructura del repositorio
 
-- **[Metodología](metodologia.md)**: Explicación detallada de los pasos que seguí para preparar la certificación utilizando inteligencia artificial generativa.
-- **[Prompts utilizados](prompts.md)**: Los prompts específicos empleados para facilitar mi estudio con ChatGPT.
-- **[Preguntas tipo test](preguntas.md)**: Preguntas extraídas, organizadas por módulos de estudio y por nivel de dificultad para facilitar el repaso y la evaluación rápida.
+- **[Metodología](https://github.com/carlosvegag1/cloud-practitioner/blob/main/metodolog%C3%ADa/metodologia.pdf)**: Explicación detallada de los pasos que seguí para preparar la certificación utilizando inteligencia artificial generativa.
+- **[Prompts utilizados](https://github.com/carlosvegag1/cloud-practitioner/tree/main/prompts)**: Los prompts específicos empleados para facilitar mi estudio con ChatGPT.
+- **[Preguntas tipo test](https://github.com/carlosvegag1/cloud-practitioner/blob/main/test/test.pdf)**: Preguntas extraídas, organizadas por módulos de estudio y por nivel de dificultad para facilitar el repaso y la evaluación rápida.
 
 ## 🚀 Cómo utilizar este repositorio
 
