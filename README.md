@@ -1,5 +1,10 @@
 # 🚀 Cómo el Prompt Engineering me ayudó a obtener la certificación AWS Cloud Practitioner (CFL-C02)
 
+<p align="center">
+<a href="https://github.com/carlosvegag1/cloud-practitioner"><img src="https://i.imgur.com/kNuncnB.png" width="80%"></a>
+</p>
+
+
 ## 📌 Introducción
 
 ¡Hola! Soy Carlos Vega González, y he creado este repositorio para compartir una metodología innovadora que me permitió obtener rápidamente y con éxito la certificación AWS Cloud Practitioner (CFL-C02). En un momento de transición profesional desde la comunicación hacia la tecnología, encontré en la ingeniería de prompts y la IA generativa herramientas clave para optimizar mi proceso de estudio y iniciarme certificándome en el mundo del Cloud Computing.
